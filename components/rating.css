@@ -1,0 +1,43 @@
+.auto-number-change {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    width: auto;
+    height: auto;
+    align-items: center;
+    background-color: #f6f6f6;
+  }
+  
+  .auto-number {
+    padding: 3rem;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .auto-number {
+      padding: 1rem;
+    }
+  
+    .auto-number-change {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .auto-number-change {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      padding: 1rem;
+      width: auto;
+      height: auto;
+      align-items: center;
+      background-color: #f6f6f6;
+    }
+  
+    .auto-number {
+      padding: 2rem;
+      width: 50%; /* or adjust width to fit the layout */
+    }
+  }
+  

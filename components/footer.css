@@ -1,0 +1,23 @@
+
+
+.footer {
+    background-image: url("https://www.theirmindia.org/assets/images/irm_home/footer_banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        gap: 4rem;
+        background-size: cover;
+    }
+    
+    .footer-item {
+        margin-bottom: 1rem;
+    }
+}
