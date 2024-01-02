@@ -13,3 +13,26 @@ Auto play feature for engagement
   
 + Statistics Section:
   Counting or ticker animation for numbers to animate from 0 to desired values
+
+## Technologies Used
++ HTML
++ CSS
++ JavaScript
++ React.js
++ Swiper.js
++ Chakra UI
+
+  ## Installation
+1. Clone the Resitory:
+     git clone https://github.com/your-username/project-name.git
+
+2. Open the project Directory:
+   cd project-name
+
+3. Open `index.html` in your web browser
+
+## Usage
+1. Navigate through different sections using the provided navigation elements.
+2. Interact with the carousels by clicking the navigation dots or dragging the sliders.
+3. Observe the statistics section for the counting animations.
+4. Access the FAQ section and click the plus icon to view the answers.
