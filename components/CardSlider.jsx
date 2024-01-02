@@ -40,8 +40,8 @@ function CardSlider() {
             spaceBetween: 50,
           },
           1440: {
-            slidesPerView: 4,
-            spaceBetween: 50,
+            slidesPerView: 3,
+            spaceBetween: 45,
           }
         }}
         className="mySwiper"
