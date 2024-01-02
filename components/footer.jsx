@@ -46,10 +46,10 @@ function Footer(){
                 <ImLocation /> <Text fontSize={"1.1rem"}>Lorem ipsum dolor sit amet, consetetur sadipscing</Text> 
                 </Box>
                 <Box color={"white"}  display={"flex"} gap={10}>
-                <BsStopwatchFill /> <Text fontSize={"1.1rem"}>Lorem ipsum dolor sit amet consectetur adipisicing elit.</Text> 
+                <BsStopwatchFill /> <Text fontSize={"1.1rem"}>Lorem ipsum dolor sit amet consectur adipisicing elit.</Text> 
                 </Box>
                 <Box color={"white"}  display={"flex"} gap={10}>
-                <FaTrainSubway /> <Text> fontSize={"1.1rem"}Lorem ipsum dolor  amet consectetur adipisicing</Text> 
+                <FaTrainSubway /> <Text>Lorem ipsum dolor amet consectetur adipisicing</Text> 
                 </Box>
                 <Box color={"white"}  display={"flex"} gap={10}>
                 <BsStopwatchFill /> <Text fontSize={"1.1rem"}>Lorem opsum asd asdsaweeq Lorem Ipsum</Text> 

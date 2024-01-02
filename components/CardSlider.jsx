@@ -96,7 +96,7 @@ function CardSlider() {
                 }}
               >
                 Know More
-                <IoMdArrowDropright color="white" />
+                <IoMdArrowDropright color="white"/>
               </Button>
             </div>
           </SwiperSlide>
